@@ -7,4 +7,4 @@
 ```dataset = load_dataset("imagefolder", data_dir="data",split="train")```
 
 ## Training
-* Run ```BLIP_training.py```
+* Run ```blip_training.py```
